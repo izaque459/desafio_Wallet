@@ -4,7 +4,7 @@
 	-- Criar carteiras
 	-- Usar algum gerenciador de carteiras
 	-- Usar o Bitcoin Test Faucet, para usar Faucet
-	-- BlockCypher, para verificar status de transferencias de Faucet
+	-- scan bitcoin [BlockCypher](https://live.blockcypher.com/), para verificar status de transferencias de Faucet com hash de transferencia
 	-- Transferir valores entre carteiras
 
 ## Tecnologias utilizadas
